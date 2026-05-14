@@ -1,0 +1,6 @@
+public/  ＃Hugo 預設產生的資料夾
+resources/
+hugo_stats.json
+.DS_Store  ＃作業系統產生的雜物
+Thumbs.db
+.idea/

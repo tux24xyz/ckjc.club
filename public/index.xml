@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>建國中學爵士音樂社</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 建國中學爵士音樂社</description>
+    <image>
+      <title>建國中學爵士音樂社</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 22:52:34 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>t2</title>
+      <link>http://localhost:1313/posts/t2/</link>
+      <pubDate>Thu, 14 May 2026 22:52:34 +0800</pubDate>
+      <guid>http://localhost:1313/posts/t2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>幹部介紹</title>
+      <link>http://localhost:1313/officers/</link>
+      <pubDate>Thu, 14 May 2026 22:48:17 +0800</pubDate>
+      <guid>http://localhost:1313/officers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 14 May 2026 21:57:10 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
