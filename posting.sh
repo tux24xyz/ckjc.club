@@ -21,7 +21,7 @@ CONFIG_FILE=".writing-config"     # 配置文件
 
 # 預設分類（你可以修改這個列表）
 AVAILABLE_CATEGORIES=(
-    "活動" "相簿"
+    "活動" "相簿" "Cover" "幹片" 
 )
 
 # 函數：輸出彩色訊息

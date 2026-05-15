@@ -20,12 +20,5 @@
       <guid>http://localhost:1313/posts/t2/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Thu, 14 May 2026 21:57:10 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

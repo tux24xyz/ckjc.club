@@ -106,9 +106,9 @@ menu:
       name: 分類
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: 標籤
-      url: /tags/
+    - identifier: posts
+      name: 貼文
+      url: /posts/
       weight: 20
     - identifier: introduction
       name: 社團介紹

@@ -1,10 +1,10 @@
 ---
-title: "Hello World"
-date: 2026-05-14T21:57:10+08:00 # 撰寫時間
-publishDate: 2026-05-14T21:57:10+08:00  # 預約之後發布
+title: "社團介紹"
+date: 2026-05-14T22:48:17+08:00 # 撰寫時間
+publishDate: 2026-05-14T22:48:17+08:00  # 預約之後發布
 #lastmod: 2025-06-30 # 最後修改時間
-draft: true
-tags: ["測試"]
+draft: false
+
 
 # 文章設定
 toc: true         # 是否顯示目錄
