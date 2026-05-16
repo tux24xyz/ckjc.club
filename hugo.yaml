@@ -11,6 +11,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+taxonomies:
+  term: terms # 英文用 terms 代表「屆數/學期」
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 建國中學爵士音樂社
@@ -102,19 +105,23 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
+    - identifier: 貼文分類
       name: 分類
       url: /categories/
       weight: 10
-    - identifier: posts
+    - identifier: 貼文
       name: 貼文
       url: /posts/
       weight: 20
-    - identifier: introduction
+    - identifier: 歷屆貼文與幹部介紹
+      name: 歷屆
+      weight: 25
+      url: /terms/
+    - identifier: 社團介紹
       name: 社團介紹
       url: /introduction/
       weight: 30
-    - identifier: officers
+    - identifier: 現任幹部介紹
       name: 幹部介紹
       url: /officers/
       weight: 40

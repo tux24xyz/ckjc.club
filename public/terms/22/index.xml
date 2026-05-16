@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>建國中學爵士音樂社</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 建國中學爵士音樂社</description>
+    <title>建爵 22 on 建國中學爵士音樂社</title>
+    <link>http://localhost:1313/terms/22/</link>
+    <description>Recent content in 建爵 22 on 建國中學爵士音樂社</description>
     <image>
       <title>建國中學爵士音樂社</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 22:52:34 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>t2</title>
-      <link>http://localhost:1313/posts/t2/</link>
-      <pubDate>Thu, 14 May 2026 22:52:34 +0800</pubDate>
-      <guid>http://localhost:1313/posts/t2/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 22:48:17 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/terms/22/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>建爵 22 現任幹部介紹</title>
       <link>http://localhost:1313/officers/</link>
@@ -56,14 +49,6 @@
 &lt;p&gt;&lt;img alt=&#34;蔡進財照片&#34; loading=&#34;lazy&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;洪德軒&#34;&gt;洪德軒&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&#34;洪德軒照片&#34; loading=&#34;lazy&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>社團介紹</title>
-      <link>http://localhost:1313/introduction/</link>
-      <pubDate>Thu, 14 May 2026 22:48:17 +0800</pubDate>
-      <guid>http://localhost:1313/introduction/</guid>
-      <description>&lt;p&gt;建國中學爵士音樂社建立於 2004 年，現在是第 22 屆。&lt;/p&gt;
-&lt;p&gt;本網站由 22 屆網管林奕安（&lt;a href=&#34;https://tux24.xyz&#34;&gt;tux24&lt;/a&gt;）建立&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
