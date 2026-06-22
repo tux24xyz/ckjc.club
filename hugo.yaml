@@ -76,9 +76,9 @@ params:
 
   socialIcons:
     - name: instagram 
-      url: "https://instagram.com"
+      url: "https://www.instagram.com/ckjc_22nd/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/tux24xyz/ckjc.club"
    
   google:
       SiteVerificationTag: "XYZabc"
@@ -105,10 +105,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: 貼文分類
-      name: 分類
-      url: /categories/
-      weight: 10
     - identifier: 貼文
       name: 貼文
       url: /posts/
